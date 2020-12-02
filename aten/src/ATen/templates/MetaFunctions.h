@@ -6,6 +6,7 @@
 #include <ATen/native/TensorIterator.h>
 
 namespace at {
+
 namespace meta {
 
 ${declarations}
